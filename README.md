@@ -1,6 +1,6 @@
 # Hi 👋, I'm Trung Le
 
-🎓 Third-year student at International University  
+🎓 Fourth-year student at International University  
 💻 Software Engineering | Java Developer  
 📍 Vietnam
 
