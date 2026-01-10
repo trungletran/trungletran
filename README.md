@@ -7,7 +7,7 @@
 ---
 
 ## 👨‍💻 About Me
-- 4th-year university student majoring in Software Engineering.
+- 4th-year university student majoring in Computer Science.
 - Main programming language: **Java**.
 - Experience with academic and small-scale software projects.
 - Strong interest in **backend development**, **data structures**, and **system design**.
