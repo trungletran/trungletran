@@ -61,6 +61,5 @@
 ---
 
 ## 📫 Contact Me
-- GitHub: https://github.com/trungletran
 - Email: trungtranle2004@gmail.com
 - LinkedIn: https://www.linkedin.com/in/trung-tr%E1%BA%A7n-l%C3%AA-b56786300/
